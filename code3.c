@@ -14,4 +14,6 @@ int main()
     
     printf("The area of the rectangle is %d" ,area);
     printf("The perimeter of the rectangle is %d" ,perimeter);
+
+    return 0;
     }
